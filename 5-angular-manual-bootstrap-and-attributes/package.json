@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "angular 1 demo",
+  "main": "script.js",
+  "scripts": {
+    "test": "Loading Demo ......."
+  },
+  "author": "Vikas Sarkar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",    
+    "gulp-util": "^3.0.7"
+  }
+}

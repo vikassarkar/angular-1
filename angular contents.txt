@@ -1,0 +1,19 @@
+Angular 1 points to study
+
+1. auto bootstrap 
+2. manual bootstrap
+3. ui.router
+4. require with AMD
+5. ui router internal implementation
+6. all attr directive usage
+7. $digest, $apply, $watch
+8. $emit, $broadcast, $on and ‘$destroy’
+9. “$timeout”, 
+10. service/factory
+11. promises
+12. directive
+13. filters
+14. table
+15. localhost
+16. form validations
+17.testcases
